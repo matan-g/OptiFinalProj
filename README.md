@@ -20,8 +20,8 @@ A bi-objective mathematical program with equilibrium constraints will be created
 Data will be collected from a number of sources including: Maryland Energy Administration, US Energy Information Administration, and the Maryland Power Plant Research Program. 
 
 ### Timeline:
-October 26 – November 9: 	Research, Compilation & Formatting of Data
-November 9 – 30:  		MPEC & Bi-objective Formulation
-November 30 – December 5:	One-week buffer: Test Results & Catch Up (if necessary)
-December 6: 			Project Due! – In class presentation
+* October 26 – November 9: 	Research, Compilation & Formatting of Data
+* November 9 – 30:  		MPEC & Bi-objective Formulation
+* November 30 – December 5:	One-week buffer: Test Results & Catch Up (if necessary)
+* December 6: 			Project Due! – In class presentation
 
