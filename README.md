@@ -1,8 +1,8 @@
-# OptiFinalProj
+#### OptiFinalProj
 Modelling policy proposals to Maryland Electricity Sector represented as Nash-Cournot game
 
 
-Enhancing the Policy Making Process for Maryland’s Energy Market
+# Enhancing the Policy Making Process for Maryland’s Energy Market
 
 ## Motivation:
 In Maryland, where Coal-Fired Power Plants reign supreme, there is a long history of attempted policy and community activism to mitigate the harmful effects of burning coal. Ultimately, these efforts have not yielded sufficient results, due to high cost and repealed legislation. The goal of our project is to generate optimal policy proposals in order to minimize the tradeoff between economic performance and detrimental environmental effects within the energy market. Policy proposals will be expressed as taxes and capacities, that would act to curb production from heavy polluting energy providers, and make way for clean energy and renewables in the market.
